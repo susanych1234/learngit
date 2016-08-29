@@ -3,5 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
-Testing a new branch with --no-ff and .
-Git have to use coding:utf-8.
+longing in /usr/bin/env.
